@@ -25,12 +25,6 @@
   The purpose of a license badge on a README file is to inform users and potential contributors about the licensing terms and conditions of the project. It helps to ensure compliance with the license terms, promote transparency and trust, and make it easier for developers to evaluate and compare projects based on their licensing terms.
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
-
-  ## Screenshots
-  
-https://user-images.githubusercontent.com/115047281/221753359-f5cd466d-b153-45ba-a430-e78b529aa7ec.mp4
-
-
   ## Contributing
   If you worked on this project with others, please list their names and GitHub profiles as collaborators. Additionally, if you included any third-party assets that require attribution, provide the creators' names and links to their main web presence. Moreover, if you followed any tutorials while developing the project, please consider including relevant links to acknowledge the sources of inspiration.
 
