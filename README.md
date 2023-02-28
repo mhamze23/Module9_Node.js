@@ -31,6 +31,9 @@ Your task is to create a command-line application that dynamically generates a p
 
 ## Screenshots
 The following animation demonstrates the application functionality: 
-https://user-images.githubusercontent.com/115047281/221753359-f5cd466d-b153-45ba-a430-e78b529aa7ec.mp4
+
+https://user-images.githubusercontent.com/115047281/221754855-a0db6143-830c-493c-b9c9-824a617117ba.mov
+
+
 
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
